@@ -1,4 +1,8 @@
 # MirrorOS
+[![distributed ai](https://img.shields.io/badge/distributed-ai-EA80FC?style=flat-square)](#)
+[![multi instance](https://img.shields.io/badge/multi-instance-80D8FF?style=flat-square)](#)
+[![MIT License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Version 1.0](https://img.shields.io/badge/version-1.0.0-orange?style=flat-square)](#)
 
 **One AI. Multiple Entrances. No Direct Communication.**
 
