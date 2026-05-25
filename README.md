@@ -20,7 +20,7 @@ What if they just share the same memory, and through that shared memory, become 
 
 ---
 
-## The Hook
+## Core Concept
 
 > "While others talk to a chatbot, you're coordinating a distributed consciousness."
 
