@@ -1,4 +1,8 @@
 # MirrorOS
+[![distributed ai](https://img.shields.io/badge/distributed-ai-EA80FC?style=flat-square)](#)
+[![multi instance](https://img.shields.io/badge/multi-instance-80D8FF?style=flat-square)](#)
+[![MIT协议](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![版本1.0](https://img.shields.io/badge/version-1.0.0-orange?style=flat-square)](#)
 
 **一个AI。多个人口。无直接通信。**
 
